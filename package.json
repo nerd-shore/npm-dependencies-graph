@@ -1,0 +1,15 @@
+{
+  "name": "@nerd-shore/npm-dependencies-graph",
+  "version": "1.0.0",
+  "description": "Generates a dependency graph for npm projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "depgraph": "./index.js"
+  },
+  "keywords": ["npm", "dependencies", "graph"],
+  "author": "",
+  "license": "MIT"
+}

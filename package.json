@@ -1,6 +1,6 @@
 {
-  "name": "@nerd-shore/npm-dependencies-graph",
-  "version": "0.0.1",
+  "name": "@nerdshore/npm-dependencies-graph",
+  "version": "0.0.2",
   "description": "Generates a dependency graph for npm projects.",
   "main": "index.js",
   "scripts": {

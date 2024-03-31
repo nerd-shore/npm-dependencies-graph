@@ -1,6 +1,6 @@
 {
   "name": "@nerdshore/npm-dependencies-graph",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "Generates a dependency graph for npm projects.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,15 @@
   "bin": {
     "depgraph": "./index.js"
   },
+  "bugs": {
+    "url": "https://github.com/nerd-shore/npm-dependencies-graph/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:nerd-shore/npm-dependencies-graph.git"
+  },
   "keywords": ["npm", "dependencies", "graph"],
-  "author": "",
+  "author": "NerdShore Labs",
+  "email": "labs@nerdshore.com",
   "license": "MIT"
 }
